@@ -3,6 +3,13 @@
     padding: 0px;
 }
 
+/*common shared style*/
+
+body{
+    font-family: 'Caveat', cursive;
+    font-family: 'Open Sans', sans-serif;
+    }
+
 /*header section*/
 
 .container{
