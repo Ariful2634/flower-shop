@@ -77,7 +77,7 @@ height: 475px;
     margin-bottom: 50px;
 }
 .p-text {
-    width: 400px;
+    width: 500px;
     color: rgba(39, 39, 39, 0.60);
    
 }
@@ -186,7 +186,7 @@ span{
     margin-bottom: 50px;
 }
 .pa-text {
-    width: 400px;
+    width: 500px;
     color: rgba(39, 39, 39, 0.60);  
 }
 .flower-collection{
@@ -250,3 +250,58 @@ span{
     margin-bottom: 25px;
 }
 
+/*greeting section*/
+
+.greeting{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 80px;
+}
+.greetings{
+    background-color: pink;
+    width: 1300px;
+    margin: 0 auto;
+}
+.greeting-img img{
+    width: 250px;
+    height: 250px;
+}
+.greeting h1{
+    font-size: 50px;
+    color: crimson;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/*footer section*/
+
+footer{
+    background: #111010;
+    height: 360px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+.foot{
+  padding: 100px;
+}
+.bottom {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.foot-pa {
+    width: 500px;
+    color: rgba(255, 255, 255, 0.90);
+    margin-top: 20px;
+    margin-bottom: 28px; 
+
+}
+
+footer small{
+    color: rgba(255, 255, 255, 0.40);
+}
