@@ -259,9 +259,13 @@ span{
     padding: 80px;
 }
 .greetings{
-    background-color: pink;
-    width: 1300px;
+    background-image: url('Flower Asset/fl-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 1220px;
     margin: 0 auto;
+    color: black;
+    height: 100%;
 }
 .greeting-img img{
     width: 250px;
